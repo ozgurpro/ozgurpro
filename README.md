@@ -14,7 +14,7 @@
 ### 💻 About Me
 
 - 🎓 **Computer Engineering Graduate** focused on building analytical and data-driven solutions.
-- 🌱 I’m currently deep diving into **Big Data Ecosystems & Quantitative Analytics**.
+- 🌱 I’m currently deep diving into **Big Data Ecosystems & Data Analytics**.
 - 📊 Interested in financial markets, predictive modeling, and machine learning architectures.
 
 ---
